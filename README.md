@@ -50,40 +50,6 @@ The purpose of this repository is to provide a transparent and verifiable record
 
 ---
 
-## Repository Structure  
-
-Events/
-│
-├── MIT/
-│ ├── AI_Converging_Tech_Symposium/
-│ ├── Data_Science_Symposium/
-│ ├── AI_Healthcare_Forum/
-│ ├── Ethics_Governance_Forum/
-│ ├── ML_Sustainability_Conference/
-│ └── [Certificates + Notes]
-│
-├── Stanford/
-│ ├── AI_Symposium/
-│ ├── Applied_DS_Workshop/
-│ ├── Vision_Robotics_Week/
-│ └── [Certificates + Reflections]
-│
-├── NVIDIA/
-│ ├── GTC_Conference/
-│ └── [Certificates + Summary]
-│
-└── Meta/
-├── AI_Developer_Summit/
-└── [Event Docs + Learnings] 
-
-Each subfolder includes:
-- Event overview and institutional details  
-- Certificate or badge (if provided)  
-- Speaker and session highlights  
-- Key research themes and insights gained  
-
----
-
 ## Key Outcomes  
 
 - Participated in six MIT-led events centered on AI, ML, DL, and NBIC convergence research.  
