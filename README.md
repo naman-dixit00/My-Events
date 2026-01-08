@@ -72,8 +72,8 @@ The purpose of this repository is to provide a transparent and verifiable record
 ## Contact  
 
 - **LinkedIn:** [Your LinkedIn URL]  
-- **GitHub:** [Your GitHub Profile URL]  
-- **Email:** [your.email@example.com]  
+- **GitHub:** [https://github.com/naman-dixit00]  
+- **Email:** [namandixit0000@gmail.com]  
 
 ---
 
